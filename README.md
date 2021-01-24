@@ -1,7 +1,8 @@
-# web1
+# Blogger
 Practice files for
-HTML Full Course - Build a Website Tutorial
+Complete Responsive Blooger Website Using HTML/CSS
+
 
 Link
 
-https://www.youtube.com/watch?v=pQN-pnXPaVg&list=PLO6vBi6cezbnUIFvJ_6YIoW43xM1JXsuT&index=7&ab_channel=freeCodeCamp.org
+https://www.youtube.com/watch?v=CrSC1ZA9j0M&list=PLO6vBi6cezbnUIFvJ_6YIoW43xM1JXsuT&index=5&t=154s&ab_channel=DailyTuition
